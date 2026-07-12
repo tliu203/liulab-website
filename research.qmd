@@ -37,3 +37,7 @@ title: "Research Topics"
 Live Imaging for photo-activatable mitochondria labeled by mito-dendra2.
 
 (The video was generated from Tian Liu Lab)
+
+#### CHCHD10 as a regulator of epigenetics in AD pathology: 
+
+![](images/Picture1.png){width="600"}
