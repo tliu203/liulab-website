@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "The Liu Lab"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: PI.qmd
+        text: Principal Investigator
+      - href: research.qmd
+        text: Research
+      - href: LabMembers.qmd
+        text: Lab Members 
+      - href: News.qmd
+        text: News 
+      - href: Publication.qmd
+        text: Publication 
+      - href: Blogs.qmd
+        text: Lab blogs
+      - href: contact.qmd
+        text: Contact us
+
+
+format:
+  html:
+    theme: solar
+    css: styles.css
+
+editor: visual
+
+

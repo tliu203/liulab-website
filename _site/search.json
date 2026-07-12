@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "news_labwebsite.html",
+    "href": "news_labwebsite.html",
+    "title": "The Liu Lab website",
+    "section": "",
+    "text": "We are thrilled to announce the launch of our laboratory website today. Through this platform, we will be sharing updates on our research topics, laboratory news, and other activities. We are going through the feeling of eventually coming home."
+  },
+  {
+    "objectID": "Gallery.html",
+    "href": "Gallery.html",
+    "title": "Gallery",
+    "section": "",
+    "text": "While we are celebrating Thanksgiving, those undergraduates are running away… :("
+  },
+  {
+    "objectID": "Gallery.html#lunch-gathering-for-2024-thanksgiving-nov-27-2024",
+    "href": "Gallery.html#lunch-gathering-for-2024-thanksgiving-nov-27-2024",
+    "title": "Gallery",
+    "section": "",
+    "text": "While we are celebrating Thanksgiving, those undergraduates are running away… :("
+  },
+  {
+    "objectID": "Gallery.html#november-2024-the-artwork-from-evangelyn-good-job",
+    "href": "Gallery.html#november-2024-the-artwork-from-evangelyn-good-job",
+    "title": "Gallery",
+    "section": "November 2024, The Artwork from Evangelyn! Good Job!",
+    "text": "November 2024, The Artwork from Evangelyn! Good Job!\n\nWho is next?"
+  },
+  {
+    "objectID": "Gallery.html#credit-to-liam-for-the-liu-lab-logo-jan-11-2025",
+    "href": "Gallery.html#credit-to-liam-for-the-liu-lab-logo-jan-11-2025",
+    "title": "Gallery",
+    "section": "Credit to Liam for the Liu Lab Logo (Jan 11, 2025)",
+    "text": "Credit to Liam for the Liu Lab Logo (Jan 11, 2025)\nThe Liu Lab logo has been created by Liam Wetzel. He will give the scientific meaning and make it become the scientific fact :)\n\nGood Job, Liam!"
+  },
+  {
+    "objectID": "Gallery.html#lab-photo-jan-23-2025",
+    "href": "Gallery.html#lab-photo-jan-23-2025",
+    "title": "Gallery",
+    "section": "Lab Photo ( Jan 23, 2025)",
+    "text": "Lab Photo ( Jan 23, 2025)\n\nIt’s nice to have our first lab photo. Those who aren’t in the picture should make it next time."
+  },
+  {
+    "objectID": "Gallery.html#march-2025-the-artwork-from-julia-liam-and-evangelyn",
+    "href": "Gallery.html#march-2025-the-artwork-from-julia-liam-and-evangelyn",
+    "title": "Gallery",
+    "section": "March 2025, The Artwork from Julia, Liam, and Evangelyn!",
+    "text": "March 2025, The Artwork from Julia, Liam, and Evangelyn!"
+  },
+  {
+    "objectID": "Gallery.html#june-2025-teresas-farewell-lunch",
+    "href": "Gallery.html#june-2025-teresas-farewell-lunch",
+    "title": "Gallery",
+    "section": "June 2025 – Teresa’s Farewell Lunch!",
+    "text": "June 2025 – Teresa’s Farewell Lunch!\nIt is bittersweet to share that Teresa will be leaving our lab to begin her medical school journey. While we are sad to see her go, we are incredibly proud and excited for her as she takes this important step toward achieving her dream of becoming a physician.\nSince joining us as a Research Assistant II in October 2024, Teresa has made remarkable contributions to the lab. In a short time, she successfully completed a research project and is now preparing to submit her first-author manuscript—an impressive milestone that speaks to her dedication and talent.\nWe wish Teresa all the very best in medical school and beyond. Please visit us whenever you can—you will always be part of our lab family. We will miss you!"
+  },
+  {
+    "objectID": "Gallery.html#lab-photo-nov-14-2025",
+    "href": "Gallery.html#lab-photo-nov-14-2025",
+    "title": "Gallery",
+    "section": "Lab Photo! (Nov 14, 2025)",
+    "text": "Lab Photo! (Nov 14, 2025)"
+  },
+  {
+    "objectID": "Gallery.html#lunch-gathering-for-2025-thanksgiving-nov-18-2025",
+    "href": "Gallery.html#lunch-gathering-for-2025-thanksgiving-nov-18-2025",
+    "title": "Gallery",
+    "section": "Lunch Gathering for 2025 Thanksgiving (Nov 18, 2025)",
+    "text": "Lunch Gathering for 2025 Thanksgiving (Nov 18, 2025)"
+  },
+  {
+    "objectID": "R01_R03_awards.html",
+    "href": "R01_R03_awards.html",
+    "title": "We received R01 and R03 awards from NIA",
+    "section": "",
+    "text": "We are thrilled to share with that Dr. Tian Liu has been awarded the R01 and R03 grants from the National Institutes of Health/NIA for the 5-year and 2-year projects, respectively. We are excited to honor this wonderful achievement! Cheers!!!🍻"
+  },
+  {
+    "objectID": "pvalue.html",
+    "href": "pvalue.html",
+    "title": "My thoughts on p-value",
+    "section": "",
+    "text": "There are many scientific domains where the p-value has been abused. I would like to discuss my views on the statistical significance and p-value in my field of research as a neuroscientist. I was routinely expected to submit a p-value of 0.05 for any data in which I claimed to have found a significant difference between two groups during my tenure as a student, postdoctoral fellow, and principal investigator. When I submit a manuscript or grant application, no reviewer will accept any of my findings until the p-value is defined. I started doing the same with other people’s articles and proposals as a means of assimilating into this field. What’s not appropriate? I think a good number of my colleagues might want to know. Unbelievably, a sizable portion of data that had a p-value of more than 0.05 was eliminated. Our scientists will explain that the difference between p=0.05 and p=0.049 in their data has to do with statistical significance if you ask them. Is significance really the main concern? Statisticians will laugh at us, I’m afraid. Let’s discuss this issue in more detail.\n\n\nWe may all agree that statistical significance is necessary to assess whether an effect is meaningfully detectable or significant. But in practice, statistical significance does not always suggest that an effect is important or meaningful. In some cases, we can identify a statistically significant difference between groups if the sample size is large enough. For example, a study may find a statistically significant 0.5% change in blood pressure across individuals from different regions using the p-value that we usually use. P values have been misused and overemphasized in the scientific community when determining whether an effect is statistically relevant. Many researchers and reviewers will only accept a finding if the p-value is tiny enough; a criterion of p = 0.05 or 0.01 has been applied. Even though many people question this “rule” and we all know it might not be reasonable or even truthful, it is a quasi-official norm in several different sectors.\nTian\n8/16/2024"
+  },
+  {
+    "objectID": "Welcome_Teresa!.html",
+    "href": "Welcome_Teresa!.html",
+    "title": "Welcome Teresa!",
+    "section": "",
+    "text": "We are excited to announce Teresa’s arrival to our lab as a Research Assistant. Welcome on board, Teresa!\n\n(* This image is generated by ChatGPT)"
+  },
+  {
+    "objectID": "PI.html",
+    "href": "PI.html",
+    "title": "PI: Dr. Tian Liu",
+    "section": "",
+    "text": "Tian Liu. PhD\n\nAbout Me:\nI am an Assistant Professor at Case Western Reserve University. My research focuses on elucidating the roles of mitochondrial function in human aging-related diseases and health using genetic and multi-omics (i.e., transcriptomics, proteomics and metabolomics) approaches. By investigating mitochondrial dynamics, including fusion and fission, the mitochondrial unfolded protein response, and mitochondria-related autophagy, we examine how changes in mitochondrial function impact cellular protein homeostasis and nuclear-mitochondrial interactions. These changes ultimately affect various biological processes, such as cellular bioenergetics, immune response, genomic stability, and programmed cell death. Utilizing a multidisciplinary approach that encompasses unbiased multi-omics, including proteomics, transcriptomics, and genomics, as well as cellular and molecular biology techniques, advanced imaging, nucleotide (antagoNATs) and viral vector-based gene therapy (AAV), patient fibroblast-converted neurons cultures, and animal models, we aim to uncover the fundamental mechanisms by which mitochondrial dysfunction disrupts cellular metabolism and contributes to human diseases and health.\n\n\nAcademic Positions\n2014-2018        Postdoctoral scholar, University of South Florida, USF Health Byrd Alzheimer’s, Institute, Tampa, FL\n2018-2021        Assistant Professor, Molecular Medicine, USF Health College of Medicine, Byrd Alzheimer’s Institute, Tampa, FL\n2018-2021        Director of Microscopy Core, Byrd Alzheimer’s Institute, Tampa, FL\n2021-Present     Assistant Professor, Pathology, Case Western Reserve University\n\n\nEducation\n2004-2008      Jiangsu Ocean University, China ,B.S., Marine Science\n2008-2010     Ajou University, South Korea, M.S., Neurosciences\n2010-2014     Seoul National University, South Korea, Ph.D., Neurosciences\n2022-2024     Case Western Reserve University, United States, M.S., Epidemiology and Biostatistics\n\n\nHonors\n2008               Outstanding Graduate School Student Scholarship at Ajou University\n2009                Outstanding graduate school student scholarship at Ajou University\n2010                Ajou University Brain Conference best poster presentation\n2010                External scholarship for Seoul National University New Outstanding Student\n2010-2012     Superior academic performance scholarship in Seoul National University\n2013               Oral Presentation Winner in Korea Institute of Science and Technology (KIST) Brain workshop\n2022-2024     Cleveland ADRC Research Education Component Scholarship\n2024                2024 CWRU Academic Excellence for the Master’s in Biostatistics"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Topics",
+    "section": "",
+    "text": "Liu’s lab at Case Western Reserve University School of Medicine\n\nOur lab studies the role of genetic factors and mitochondria-associated mechanisms in neurodegenerative diseases including Alzheimer’s Disease (AD), Frontotemporal dementia (FTD), and Amyotrophic lateral sclerosis (ALS). Our goal is to understand mechanistic insights into genetic variants causing the pathogenesis of diseases and to develop translational therapeutic strategies for neurodegenerative disorders.\n\n\nOur specific research interests include:\n\n\n1.    Investigating crosstalk between mitochondria and other organelles (such as, ER, nucleus) in mitochondria-mediated unfolded protein responses\n\n\n2.    Identifying and investigating neuropathological signatures of mitochondrial dysfunction in AD and ADRD through assessments of transcriptome and proteome.\n\n\n3.    Exploring genetic variants strongly associated with amyloid beta production and neurotoxicity using multi-omics approaches.\n\n\n4.    Investigating the genetic factors in mitochondria underlying the crosstalk between TDP-43 pathology and tauopathy in AD and exploring intervention strategies.\n\n\n5.    Understanding the mechanisms underlying mitochondrial dysfunction and developing mitochondria-based therapeutic approaches in AD and ADRD.\n\n\n6.    Studying the role of selective autophagy and mitophagy in the accumulation of toxic components in neurodegenerative processes.\n\n\n7.    Mitochondrial (genome) dysfunction and nuclear-mitochondrial interactions in human health, such as pulmonary and cardiovascular diseases.\n \nLeft: Red: MitoDsRed; Green: Mitochondrial X (wild type)\nRight: Red: MitoDsRed; Green: Mitochondrial X’ (AD-Linked X mutant)\n(The images were generated from Tian Liu Lab)\n\n\nLive Imaging for photo-activatable mitochondria labeled by mito-dendra2.\n(The video was generated from Tian Liu Lab)"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact us",
+    "section": "",
+    "text": "Postdoctoral and graduate student positions are currently available in our laboratory for NIH-funded projects. If you have a PhD degree in the fields of molecular biology, biochemistry, genetics, neurobiology, and/or bioinformatics, send your CV to txl757@case.edu (Dr. Tian Liu)"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "Publication.html",
+    "href": "Publication.html",
+    "title": "Publication",
+    "section": "",
+    "text": "Lee SY, Kim B, Jeong HK, Min KJ, Liu T, Park JY, Joe EH, Jou I. Enhanced phosphatidylinositol 4-phosphate 5-kinase a expression and PI(4,5)P2 production in LPS-stimulated microglia. Neurochem Int. 2010 Nov;57(5):600-7.\nLee SY, Kim B, Yoon S, Kim YJ, Liu T, Woo JH, Chwae YJ, Joe EH, and Jou I. Phosphatidylinositol 4- phosphate 5-kinase α is induced in ganglioside-stimulated brain astrocytes and contributes to inflammatory responses. Exp Mol Med. 2010 Sep 30;42(9):662-73.\nKang DE, Roh SE, Woo JA, Liu T, Bu JH, Jung AR, Lim Y. The interface between cytoskeletal aberrations and mitochondrial dysfunction in Alzheimer’s Disease and related disorders. Exp Neurobiol. 2011 Jun;20(2):67-8\nLiu T, Lee SY. Phosphatidylinositol 4-phosphate 5-kinase a negatively regulates nerve growth factor-induced neurite outgrowth in PC12 cells. Exp Mol Med. 2013 Mar 29;45:e16\nLiu T, Roh SE, Woo JA, Ryu H, Kang DE. Cooperative role of RanBP9 and P73 in mitochondria-mediated apoptosis. Cell Death &Disease. 2013 Jan 24;4:e476\nRoh SE, Woo JA, Lakshmana MK, Uhlar C, Ankala V, Boggess T, Liu T, Hong YH, Mook-Jung I, Kim SJ, Kang DE. Mitochondrial dysfunction and calcium deregulation by the RanBP9-cofilin pathway. FASEB J. 2013 Dec;27(12):4776-89.\nLiu T, Im W, Lee ST, Ban JJ, Chai YJ, Lee M, Mook-Jung I, Chu K, Kim M. Modulation of mitochondrial function by stem cell-derived cellular components. Biochem Biophys Res Commun. 2014 Jun 13;448(4):403-8\nLiu T, Im W, Mook-Jung I, Kim M. MicroRNA-124 slows down the progression of Huntington’s disease by promoting neurogenesis in the striatum. Neural Regen Res. 2015 May;10(5):786- 91. doi:10.4103/1673-5374.156978. PubMed PMID: 26109954; PubMed Central PMCID: PMC4468771.\nLee M, Liu T, Im W, Kim M. Exosomes from adipose-derived stem cells ameliorate Huntington’s disease phenotypes in an in vitro model. Eur J Neurosci. 2016 May 14. doi: 10.1111/ejn.1327\nLiu T, Lee M, Ban JJ, Im W, Mook-Jung I, Kim M. Cytosolic extract of human adipose stem cells reverses the amyloid beta-induced mitochondrial apoptosis via P53/Foxo3a pathway. PLoS One. 2017 Jan 3 ;12(1) :e0168859\nLiu T., Wang F., LePochat P., Woo J A., Bukhari M Z., Hong K W., Trotter C., Kang DE. Cofilin-mediated neuronal apoptosis via P53 translocation and PLD1 regulation. Scientific Reports. 2017, doi:10.1038/s41598-017-09996-3\nWoo, J.A, Liu T., Zhao X; Trotter C., Yrigoin K; Cazzaro S ; De Narvaez E., Khan H., Witas R., Bukhari A.,Makati K., Kang D.E*. Enhanced tau pathology via RanBP9 and Hsp90/Hsc70 chaperone complexes. Human Molecular Geneticis. 2017. doi: https://doi.org/10.1093/hmg/ddx284\nWoo, J.A*., Liu T*., Trotter C*., Fang C.C., De Narvaez E., LePochat, P., Maslar D., Bukhari A., Zhao X., Deonarine A., Westerheide S.D., Kang D.E. Loss of function CHCHD10 mutations in cytoplasmic TDP- 43 accumulation and synaptic integrity. Nature Communications. 2017. 8: 15558. (* Co-First)\nJ Lee*, Y Kim*, T Liu*, YJ Hwang, S J Hyeon, K Lee, V E. A, A C. McKee, S Um, M Hur, I Mook-Jung, N W. Kowall and H Ryu. SIRT3 deregulation is linked to mitochondrial dysfunction in Alzheimer’s disease. Aging Cell. 2018 Feb;17(1). doi: 10.1111/acel.12679 (* Co-First)\n\n15. Liu, T *; Woo, J.A, Yan, Y; LePochat, P; Bukhar, M.Z and Kang DE*. Dual Role of Cofilin in APP Trafficking and Amyloid b Clearance. FASEB J. 2019. 33(12):14234-14247.  (*Corresponding)\n\nWoo, J.A., Liu, T., Fang, C.C., Cazzaro, S., Kee, T., Lepochat, P., Yrigoin, K., Trotter, C., Zhao, X., Wang, X., Liggett, S.B., Kang, D.E*. Activated cofilin in tau-mediated microtubule dynamics and tauopathy. Activated cofilin exacerbates tau pathology by impairing tau-mediated microtubule dynamics. Communications Biology .2019. 2: 112. PMCID: PMC6430779.\nLiu T *., Woo J.A., Mohammed ZB., Lepochat P., Chacko A., Selenica MB., Yan Y., Kotsiviras P., Buosi SA., Zhao X., Kang D.E*. CHCHD10-regulated Opa1-mitofilin complex mediates TDP-43-induced mitochondrial phenotypes associated with Frontotemporal dementia. FASEB J. 2020.  doi: 10.1096/fj.201903133RR. PMID: 32369233 (*Corresponding)\nWoo, J.A., Liu, T., Fang, C.C., Castano, M., Kee, T., Yrigoin, K., Yan, Y., Cazzaro, S.,Matlack, J., Wang, X., Zhao, X., Kang, D.E.*, Liggett, S.B*. β-arrestin2 oligomers impair the clearance of pathological tau and increase tau aggregates. PNAS. 2020.117(9):5006-5015. Doi:10.1073/pnas 1917194117\nFang C., Woo, J.A., Liu T., Zhao X., Cazzaro S., Yan Y., Matlack J., Kee T., LePochat P., Kang D.E. SSH1 impedes p62/SQSTM1 flux and tau clearance independent of cofilin activation. Autophagy. 2021. PMID: 33044112 DOI: 10.1080/15548627.2020.181666\nHyeon SJ, Park J, Yoo J, Kim SH, Hwang YJ, Kim SC, Liu T, Shim HS, Kim Y, Cho Y, Woo J, Kim KS, Myers RH, Ryu HL, Kowall NW, Song EJ, Hwang EM, Seo H, Lee J, Ryu H. Dysfunction of X-linked inhibitor of apoptosis protein (XIAP) triggers neuropathological processes via altered p53 activity in Huntington’s disease. Prog Neurobiol. 2021. Sep;204:102110.doi: 10.1016/j.pneurobio.2021.102110. Epub 2021.Jun 21. PubMed PMID: 34166773; PubMed Central PMCID: PMC8364511.\nLiu T*, Woo JA, Bukhari MZ, Wang X, Yan Y, Buosi SC, Ermekbaeva A, Sista A, Kotsiviras P, LePochat P, Chacko A, Zhao X, Kang DE*. Modulation of synaptic plasticity, motor unit physiology and TDP-43 pathology by CHCHD10. Acta Neuropathol Commun. 2022 Jul 4;10(1):95. doi: 10.1186/s40478-022-01386-9. PubMed PMID: 35787294; PubMed Central PMCID: PMC9254494. (*Corresponding)\nWoo JA, Yan Y, Kee TR, Cazzaro S, McGill Percy KC, Wang X, Liu T, Liggett SB, Kang DE. β-arrestin1 promotes tauopathy by transducing GPCR signaling, disrupting microtubules and autophagy. Life Sci Alliance. 2022.Mar;5(3). doi: 10.26508/lsa.202101183. Print 2022 Mar. PubMed PMID: 34862271; PubMed Central PMCID: PMC8675912.\nKee TR, Wehinger JL, Gonzalez PE, Nguyen E, McGill Percy KC, Khan SA, Chaput D, Wang X, Liu T, Kang DE, Woo JA. Pathological characterization of a novel mouse model expressing the PD-linked CHCHD2-T61I mutation. Hum Mol Genet. 2022 Nov 28;31(23):3987-4005. doi: 10.1093/hmg/ddac083. PubMed PMID: 35786718; PubMed Central PMCID: PMC9703812.\nAlici H, Uversky VN, Liu T, Kang DE, Woo JA, Coskuner-Weber O. Frontotemporal Dementia-Related V57E Mutation Impairs Mitochondrial Function and Alters the Structural Properties of CHCHD10. ACS Chem Neuroscience.2023. DOI: 10.1021/acschemneuro.3c00125. PubMed PMID: 37194187\nCazzaro S, Woo JA, Wang X, Liu T, Rego S, Kee T, Kor Y, Vazquez-Rosa E, Pieper AA, Kang DE. Slingshot homolog-1mediated Nrf2 Sequestration tips the balance from neuroprotection to neurodegeneration in Alzheimer’s Disease. PNAS. 2023. DOI: 10.1073/pnas.2217128120\nLiu T*, Wetzel L, Zhu Z, Kumaraguru P, Song S-Y, Gorthi V, Yan Y, Woo JA, Kang DE*. CHCHD10 variants regulate mitophagy through PARL1 and impact TDP-43 accumulation. Cells.2023. 12(24), 2781; https://doi.org/10.3390/cells12242781 (*Corresponding)\nQiu Y, Hou Y, Wetzel L, Caldwelll JZ, Zhu X, Pieper AA, Liu T*, Cheng F*. Cell type-specific master metabolic regulators of Alzheimer’s disease. BioRxiv (preprint). 2025 Jul 17:2025.07.11.664443. doi: 10.1101/2025.07.11.664443 (*Corresponding)\nXu J,Zhou Y, Lorincz-Comi N, Dou L, Hou Y, Qiu Y, Liu T, Zhu X, Yang X, Song W, Tan Z, Liu Z, Hu M, Li Y, Shen J, Jehi L, Pillai J, Pieper AA, Cummings J, Cheng F. A Scalable Human Brain Cell Atlas Foundation Model Dissects the Cellular Immune Codes and Cognitive Resilience. Research Square (preprint). 2025 July. DOI: 10.21203/rs.3.rs-6986171/v1\nSekyonda Z, Solomon  O, Zhang B, Wetzel L, Wang F, Fadaei P, Du Y, Man Y, Chang A, An R, Liu T, Baskaran H, Little J, Gurkan UA. New Sickle Cell Disease Therapies Modulate Red Blood Cell Deformability via Ca2+, ATP, 2,3-DPG in Normoxia and Hypoxia. Blood RCI. 2025 August. https://doi.org/10.1016/j.brci.2025.100015"
+  },
+  {
+    "objectID": "LabMembers.html#former-lab-members",
+    "href": "LabMembers.html#former-lab-members",
+    "title": "Lab Members",
+    "section": "Former Lab Members",
+    "text": "Former Lab Members\n\n\nPaul Lee\n📧 pyl9@case.edu\nIn 2023, Paul enrolled as an undergraduate student in the Neuroscience department at CWRU. He is currently serving in the military in South Korea. Good Luck, Paul!\n\n\n\n\n\n\n\n\nZexi Zhu. BA\nIn 2020, Zexi enrolled as an undergraduate student in the Biochemistry department at CWRU. She began to work in Tian’s laboratory in 2021 and is currently pursuing a Master’s degree in the Public Health Program in Chronic Disease Epidemiology at Yale University.\n\n\n\nDavid Roy, BS\nDavid has been employed in the laboratory since 2022. He is presently in the process of preparing for his application to medical school.\n\n\n\n\n\n\n\n\nViraj Gorthi. MS\nStarting in 2021, Viraj has been working as an undergraduate research assistant in the laboratory. At present, he is studying in the first year of medical school at CWRU.\n\n\n\n\n\n\n\n\nPavan Kumaraguru. BA\nSince 2021, Pavan has been working as an undergraduate research assistant in the laboratory. He is now a student in the second year of medical school.\n\n\n\n\nTeresa Thomas. MS\nSince 2024, Teresa has been working as a research assistant in the laboratory. She is now a student in the medical school in the University of Vermont."
+  },
+  {
+    "objectID": "News.html",
+    "href": "News.html",
+    "title": "News",
+    "section": "",
+    "text": "2024.8.16\n\n\nThe Liu lab website is launched today!!\n\n\nWe are thrilled to announce the launch of our laboratory website today. Through this platform, we will be sharing updates on our research topics, laboratory news, and other activities. We are going through the feeling of eventually coming home.\n\n\n2024.8.16\n\n\nDr. Tian Liu received brand New R01 and R03 awards from NIH/NIA\n\n\nWe are thrilled to share with that Dr. Tian Liu has been awarded the R01 and R03 grants from the National Institutes of Health/NIA for the 5-year and 2-year projects, respectively. We are excited to honor this wonderful achievement!\n\n\n2024.11.11\n\n\nDina Bugybayeva joins the lab as an Research Assistant\n\n\nWe are pleased to have Dina as a Research Assistant in our lab. We’re hoping she’ll have fun and learn more about Neuroscience research. \n\n\n2024.11.18\n\n\nWelcome Teresa Thomas!\n\n\nWe are excited to announce Teresa’s arrival to our lab as a Research Assistant. Welcome on board, Teresa!\n\n\n2025.01.11\n\n\nCongratulations to Liam for being admitted to the BSTP doctoral program at CWRU!\nThe Liu Lab ‘senior statesman’, Liam Wetzel, has been accepted by the BSTP program for his PhD study. Congratulations, Liam!\n\n\n2025.07.08\n\n\nWelcome William Samsa!\nWe are pleased to have William Samsa as an Research Associate at the Liu lab. Welcome on board, Will!\n\n\n2025.08.04\n\n\nWelcome Kexin Zhang and Ching-Yao Yang!\nWe are excited that Kexin and Ching-Yao started working at the Liu lab as research assistants.\n\n\n2026.01.01\n\n\nDr. Tian Liu received a New R21 award from NIH/NIA\nWe are delighted to announce that Dr. Tian Liu has been awarded the R21 grant from the National Institutes of Health/NIA for a 2-year project, which will allow us to further expand our research projects.\n\n\n2026.01.30\n\n\nLiam received a T32 award\nWe are excited to announce that Liam has been appointed to the Alzheimer’s Disease Translational Data Science Training Program (T32). Congratulations!\n\n\n2026.07.04\n\n\nNew paper published\nWe are pleased to announce that our paper has been published in Advanced Science. Congratulations to Teresa and Ching-Yao."
+  },
+  {
+    "objectID": "index.html#welcome-to-tian-lius-lab-at-case-western-reserve-university-school-of-medicine-in-cleveland",
+    "href": "index.html#welcome-to-tian-lius-lab-at-case-western-reserve-university-school-of-medicine-in-cleveland",
+    "title": "The Liu Lab at CASE WESTERN RESERVE UNIVERSITY",
+    "section": "Welcome to Tian Liu’s lab at Case Western Reserve University School of Medicine in Cleveland",
+    "text": "Welcome to Tian Liu’s lab at Case Western Reserve University School of Medicine in Cleveland\n\nOur lab studies the role of genetic factors and mitochondria-associated mechanisms in neurodegenerative diseases including Alzheimer’s Disease (AD), Frontotemporal dementia (FTD), and Amyotrophic lateral sclerosis (ALS). Our goal is to understand mechanistic insights into genetic variants causing the pathogenesis of diseases and to develop translational therapeutic strategies for neurodegenerative disorders."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "Welcome_Dina!.html",
+    "href": "Welcome_Dina!.html",
+    "title": "Welcome Dina",
+    "section": "",
+    "text": "We are pleased to have Dina as a Research Assistant in our lab. We’re hoping she’ll have fun and learn more about Neuroscience research. \n\n(* The image is generated by ChatGPT!)"
+  }
+]
